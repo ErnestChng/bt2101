@@ -1,10 +1,10 @@
 # BT2101
 
-Project - Assessment of Machine Learning models on predicting Credit Risk
+BT2101 Decision Making Methods and Tools Project - Assessment of Machine Learning models on predicting Credit Risk
 
 ## Description
 
-Basic school machine-learning project in R.
+Basic school machine-learning project in R. 
 
 ## Project Report Content
 
